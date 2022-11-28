@@ -34,7 +34,7 @@ const styles = {
     image: {
         height: 110,
         width: 110,
-        borderRadius: 4,
+        borderRadius: 3,
 background: '#ccc'
     }
 }
