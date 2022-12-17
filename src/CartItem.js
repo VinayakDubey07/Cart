@@ -3,7 +3,7 @@ import React from 'react';
 const CartItem = (props) => {
  
     
-        
+        //no new updates
         const{price, title, qty} = props.product;
         const { product, onIncreaseQuantity, onDecreaseQuantity, onDeleteProduct } = props;
         return (
